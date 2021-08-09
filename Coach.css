@@ -1,0 +1,29 @@
+body{
+    background-color: #000000;
+    /* background-image: url(RLbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+#Title{
+    text-align: center;
+    color: #6e0202;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#div1{
+    
+}
+
+#txt1{
+    padding-bottom: 16px;
+}
+
+footer{
+    position: absolute;
+    top: 94.5%;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 2px;
+}
